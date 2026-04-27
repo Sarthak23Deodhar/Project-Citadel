@@ -1,0 +1,10 @@
+{
+  "name": "Project Citadel",
+  "description": "Decentralized Disaster Response Ecosystem with Web AI Medical Triage.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
